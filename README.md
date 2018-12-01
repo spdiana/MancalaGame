@@ -1,6 +1,6 @@
-# MancalaGame with Spring Boot
+# Mancala Game with Spring Boot
 
-#1 - The game was developed using Spring Boot and JSP
+#1 - The game was developed using Spring Boot and JSP  
 #2 - To run, execute the class 'BolTestWebApplication'
      and open th url "localhost:8080/game"
 	 To play you must enter one board number who represents the current player side.
